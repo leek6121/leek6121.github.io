@@ -5,7 +5,7 @@ body {
 	font: 100% Georgia, Times, serif;
 }
 h1 {
-	font: 300% Arial, Helvetica, sans-serif;
+	font: 250% Arial, Helvetica, sans-serif;
 	color: blue;
 }
 
@@ -17,6 +17,12 @@ h2 {
 p {
 	color: white;
 }
+
+a {
+	color: red;
+}
+
+
 #wrapper {
 	width: 1100px;
 	margin: 0 auto;
